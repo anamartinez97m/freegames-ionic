@@ -4,8 +4,8 @@ First APP with Ionic
 
 To start app:
 
-ionic serve 
+*ionic serve*
 
 or 
 
-npm start (ionic serve -o)
+*npm start (ionic serve -o)*
