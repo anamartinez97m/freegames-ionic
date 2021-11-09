@@ -1,0 +1,7 @@
+{
+  "name": "freegames-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
